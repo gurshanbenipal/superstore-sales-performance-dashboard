@@ -12,7 +12,7 @@ This project analyzes sales, profit, regional performance, product performance, 
 
 A short screen recording of the dashboard is included below:
 
-[Watch the Dashboard Demo](dashboard-demo.mp4)
+[Watch the Dashboard Demo](https://youtu.be/uKbtpF-FJC8)
 
 ## Business Questions
 
