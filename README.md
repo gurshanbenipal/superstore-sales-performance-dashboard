@@ -11,8 +11,7 @@ This project analyzes sales, profit, regional performance, product performance, 
 ## Dashboard Demo
 
 A short screen recording of the dashboard is included below:
-
-[Watch the Dashboard Demo](dashboard_full_view.png)(https://www.youtube.com/watch?v=uKbtpF-FJC8)
+[![Watch the Dashboard Demo](dashboard_full_view.png)](https://www.youtube.com/watch?v=uKbtpF-FJC8)
 
 ## Business Questions
 
