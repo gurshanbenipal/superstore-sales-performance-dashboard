@@ -52,6 +52,7 @@ Regional performance varies across the United States, showing that sales and pro
 
 ```text
 Superstore_Sales_Performance_Dashboard.twbx
-data/Sample_Superstore.xlsx
-images/dashboard_full_view.png
-videos/dashboard_demo.mov
+Sample_Superstore.xls
+dashboard_full_view.png
+dashboard-demo.mov
+YoutubeVideo.png
